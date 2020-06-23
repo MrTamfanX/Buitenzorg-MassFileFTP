@@ -30,7 +30,7 @@ $ cpan install App::Shotgun Atau App::Shotgun::Target
 Lanjut Ke Clone  :
 ```html
 $ git clone https://github.com/MrTamfanX/Buitenzorg-MassFileFTP
-$ cd Buitenzorg-BANKMANDIRI
+$ cd Buitenzorg-MassFileFTP
 $ perl Buitenzorg-Upfile.pl
 ```
 
